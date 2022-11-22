@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/acefly/openpose_ros_ws/install/setup.sh
